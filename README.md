@@ -1,4 +1,3 @@
-<script src="https://gist.github.com/PremiumTurk/bc8eb5578fb84a5fc1770be6da55712e.js"></script>
 <h1 align="center">Hi 👋, I'm Kadir Beşkardeş</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
