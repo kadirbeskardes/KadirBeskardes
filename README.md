@@ -1,4 +1,5 @@
 ![Header](./header.png)
+![Header](https://via.placeholder.com/1200x400.png?text=Custom+Header+with+Gradient+Background)
 
 <div style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 20px;">
   <h1 align="center">Hi 👋, I'm Kadir Beşkardeş</h1>
