@@ -2,7 +2,7 @@
 
 <div style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 20px;">
   <h1 align="center">Hi 👋, I'm Kadir Beşkardeş</h1>
-  <h3 align="center">A passionate software developer from Turkey</h3>
+  <h3 align="center">A passionate software developer from Türkiye</h3>
 
   - 👨‍💻 All of my projects are available at [kadirbeskardes.com](kadirbeskardes.com)
 
