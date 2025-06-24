@@ -4,7 +4,7 @@
   <h1 align="center">Hi 👋, I'm Kadir Beşkardeş</h1>
   <h3 align="center">A passionate software developer from Türkiye</h3>
 
-  - 👨‍💻 All of my projects are available at [kadirbeskardes.github.io](kadirbeskardes.github.io)
+  - 👨‍💻 All of my projects are available at [kadirbeskardes.github.io](https://kadirbeskardes.github.io/)
 
   - 💬 Ask me about **.NET development**
 
