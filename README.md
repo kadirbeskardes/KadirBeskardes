@@ -1,74 +1,78 @@
 ![Header](./header.png)
 
-<div style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 20px;">
-  <h1 align="center">Hi 👋, I'm Kadir Beşkardeş</h1>
-  <h3 align="center">A passionate software developer from Türkiye</h3>
+<div align="center">
+  
+  # Hi there, I'm Kadir Beşkardeş 👋
+  
+  ### 💻 Full Stack Developer | .NET Enthusiast | Problem Solver
 
-  - 👨‍💻 All of my projects are available at [kadirbeskardes.github.io](https://kadirbeskardes.github.io/)
-
-  - 💬 Ask me about **.NET development**
-
-  - 📫 How to reach me **kadir.beskardes11@gmail.com**
-
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/kadirbeskardes" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirbeskardes" height="30" width="40" />
-    </a>
+  <p align="center">
+    I am a passionate Computer Engineer specializing in building user-friendly, modern, and high-performance applications. <br>
+    My focus lies in the <b>.NET Ecosystem</b>, <b>React Native</b>, and <b>AI-Powered Solutions</b>.
   </p>
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+  <div>
+    <a href="mailto:kadir.beskardes11@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+    <a href="https://linkedin.com/in/kadirbeskardes">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+    <a href="https://kadirbeskardes.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website" />
     </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" />
-    </a>
-  </p>
+  </div>
+</div>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirbeskardes&show_icons=true&locale=en&layout=compact" alt="kadirbeskardes" /></p>
+---
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirbeskardes&show_icons=true&locale=en" alt="kadirbeskardes" /></p>
+### 🚀 About Me
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadirbeskardes&" alt="kadirbeskardes" /></p>
+I hold a degree in **Computer Engineering** from Kırıkkale University and am currently pursuing studies in **Management Information Systems** at Anadolu University.
+
+Currently working as a Freelance Web Developer at **Deluxe Digital Solutions**, I craft scalable solutions for real-world problems. In my development process, I prioritize not just writing code, but delivering excellent **User Experience (UX)** and adhering to **Clean Architecture** principles.
+
+---
+
+### 🛠️ Tech Stack
+
+| **Backend & .NET** | **Mobile & Frontend** | **Database & Cloud** |
+| :--- | :--- | :--- |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%208%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🌟 Flagship Projects
+
+| Project | Description | Key Tech |
+| :--- | :--- | :--- |
+| **[Testival 🏆](YOUR_LINK_HERE)** <br> _Sep 2025_ | **Tournament & Quiz Platform.** A Full-Stack application where users can create interactive tournaments and quizzes. Supports PWA for seamless mobile experience. | `.NET 8`, `React Native`, `Azure`, `JWT` |
+| **[Kitabika 📚](YOUR_LINK_HERE)** <br> _Jun 2025_ | **Book Management & E-Commerce.** A modern web platform featuring a role-based admin panel, shopping cart system, and advanced catalog management. | `.NET 9`, `EF Core`, `AutoMapper`, `Identity` |
+
+#### 📱 Mobile & AI Solutions
+
+| Project | Description | Key Tech |
+| :--- | :--- | :--- |
+| **[Vision Assistant 👁️](YOUR_LINK_HERE)** <br> _Dec 2023_ | **AI-Powered Visual Recognition.** A social interaction app that analyzes the environment and provides audio descriptions for visually impaired users. | `Xamarin`, `Azure Vision`, `OpenAI GPT-3.5` |
+| **[Steganography App 🔐](YOUR_LINK_HERE)** <br> _May 2024_ | **Data Hiding & Encryption.** A desktop security tool capable of hiding text or images within other image files using LSB algorithms. | `Python`, `LSB Algo`, `Blowfish`, `Tkinter` |
+| **[GrinGrid 💬](YOUR_LINK_HERE)** <br> _Jan 2023_ | **Real-Time Chat App.** A cross-platform messaging application supporting instant file sharing and secure communication. | `Xamarin`, `Firebase Realtime DB` |
+
+#### 🛠️ Other Tools
+
+* **Remind Me (Dec 2022):** Medication tracking and patient control system with video proof. *(Xamarin, Firebase Storage)*
+* **Spell Checker (May 2024):** A desktop tool using NLP techniques and edit distance algorithms for text correction. *(Python, Tkinter)*
+
+---
+
+<div align="center">
+  <br>
+  <h3>🚀 Ready to see more?</h3>
+  <p>Explore detailed case studies, live demos, and documentation on my personal portfolio.</p>
+  
+  <a href="https://kadirbeskardes.github.io/">
+    <img src="https://img.shields.io/badge/kadirbeskardes.github.io-Visit%20Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" height="40" />
+  </a>
 </div>
